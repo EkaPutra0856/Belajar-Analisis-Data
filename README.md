@@ -49,20 +49,7 @@ Ensure you have Python 3.x installed, with this libraries:
 - streamlit
 - matplotlib
 - numpy
+- babel
 
 All dependencies are listed in the requirements.txt file and can be installed using the command mentioned above.
 
-## Usage
-**1. Data Wrangling:**
-
-The data wrangling steps are available in the notebook.ipynb file. These steps include gathering, assessing, and cleaning the bike sharing dataset for analysis.
-
-**2. Exploratory Data Analysis (EDA):**
-
-Explore and analyze the bike rental data using the notebook.ipynb. This analysis show of the rental patterns, such as differences between weekdays, weekends, holidays, and user types (casual vs. registered).
-
-**3. Visualization:**
-
-Run the Streamlit dashboard for interactive visual exploration of the data. This give visual about weekday vs. weekend, holiday effects, and a comparison between casual and registered users.
-
-## License
